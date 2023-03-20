@@ -1,0 +1,13 @@
+.register{
+    color: Black;
+    text-align: center;
+  }
+  
+  .register a{
+    color: rgb(74, 146, 235);
+  }
+  
+  .register a:link{
+    text-decoration: none;
+    color:grey;
+  }
